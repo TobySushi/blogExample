@@ -1,0 +1,27 @@
+#articleContainer {
+    background-color: lightblue;
+    margin: 50px;
+    margin-top: 25px;
+    margin-right: 20px;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+#articleIndex {
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 25px;
+    background-color: lightgreen;
+    color: lightseagreen;
+    text-align: center;
+}
+
+.articleThumbnail {
+    margin:5px;
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom:2px;
+    padding-left: 10px;
+    text-align: left;
+    border-radius: 5px;
+}
